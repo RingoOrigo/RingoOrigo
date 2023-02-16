@@ -1,15 +1,20 @@
 ## Bio
-Ringo Origo is a young programmer who mostly works with Java at an intermediate/advanced level for personal projects, but Python at a novice level in regards to creating Discord bots. Currently working with C# in Unity for Virtual Reality (VR) game development.
+I am 18 and non-binary (they/them).</br>
+
+I develop whatever I choose, tending to forget to upload to GitHub unless I actually need to transfer it to another PC without USB drives or any other trouble. Projects are for me spitballing ideas, might contain code fragments for features I want to add into certin repositories. Think of them as open idea boards for thoughts and plans in my head for things that may or may not come true.</br>
+
+#### Other Facts
+I am a photographer as well as a musician, with a strong interest in game development as a hobby. I play Beat Saber pseudo-competitively, playing for leaderboard positions rather than in genuine tournaments or events.[^1]
+
+## Education
+Graduating high school in 2023. </br>
+Enrolled as a Computer Science major for class of 2027. 
 
 ## Contact
 * Twitter: [@RingoOrigo](https://twitter.com/RingoOrigo)
-* Discord: Ringo Origo#2342[^1]
+* Discord: Ringo Origo#2342[^2]
 * Gmail: ringothefly@gmail.com
-* Steam: [Ringo Origo](https://steamcommunity.com/id/RingoOrigo)[^1]
+* Steam: [Ringo Origo](https://steamcommunity.com/id/RingoOrigo)[^2]
 
-[^1]: Most reliable contact methods.
-
-<!---
-RingoOrigo/RingoOrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[^1]: [Aforementioned leaderboard](https://scoresaber.com/u/76561198974330641)
+[^2]: Most reliable contact methods.
