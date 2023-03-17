@@ -6,6 +6,10 @@ I develop whatever I choose, tending to forget to upload to GitHub unless I actu
 #### Other Facts
 I am a photographer as well as a musician, with a strong interest in game development as a hobby. I play Beat Saber pseudo-competitively, playing for leaderboard positions rather than in genuine tournaments or events.[^1]
 
+## Naming Conventions
+Certain repositories have prefixes that can be used to determine what they are for. Here's a list:
+1. `HMAD` - Repository for Honours Mobile App Development, my current high school course.
+
 ## Education
 Graduating high school in 2023. </br>
 Enrolled as a Computer Science major for class of 2027. 
