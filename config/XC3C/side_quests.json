@@ -68,7 +68,7 @@
       "quest_name": "No Want of Courage",
       "location": "Colony 4 Canteen (Eagus Wilderness)",
       "region": "Fornis",
-      "recomended_level": 17,
+      "recommended_level": 17,
       "hero_quest": true,
       "articleurl": "https://xenoblade.fandom.com/wiki/No_Want_of_Courage",
       "imageurl": "https://static.wikia.nocookie.net/xenoblade/images/c/c5/No_Want_of_Courage.jpg/revision/latest/scale-to-width-down/350?cb=20220902155231"
@@ -85,7 +85,7 @@
       "quest_name": "Champion of the Nopon",
       "location": "Great Idalla Ravine (Dannagh Desert)",
       "region": "Fornis",
-      "recomended_level": 19,
+      "recommended_level": 19,
       "dlc": true,
       "hero_quest": true,
       "articleurl": "https://xenoblade.fandom.com/wiki/Champion_of_the_Nopon",
