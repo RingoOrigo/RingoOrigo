@@ -90,6 +90,8 @@
       "name": "Riku & Manana",
       "class": "Yumsmith",
       "hero": true,
+      "kevesi" : true,
+      "agnian" : true,
       "article_url": "https://xenoblade.fandom.com/wiki/Riku_%26_Manana",
       "image_url": "https://static.wikia.nocookie.net/xenoblade/images/f/f0/XC3_Riku_and_Manana_Artwork.png/revision/latest/scale-to-width-down/350?cb=20220627181803"
     },
@@ -97,6 +99,7 @@
       "name": "Gray",
       "class": "Full Metal Jaguar",
       "hero": true,
+      "city" : true,
       "article_url": "https://xenoblade.fandom.com/wiki/Gray",
       "image_url": "https://static.wikia.nocookie.net/xenoblade/images/e/ef/XC3_Gray_Portrait_Art.png/revision/latest/scale-to-width-down/350?cb=20220707145752"
     },
@@ -136,6 +139,7 @@
       "name": "Monica",
       "class": "Lost Vanguard",
       "hero": true,
+      "city": true,
       "article_url": "https://xenoblade.fandom.com/wiki/Monica_Vandham",
       "image_url": "https://static.wikia.nocookie.net/xenoblade/images/5/57/Monica_Vandham_portrait_artwork.png/revision/latest/scale-to-width-down/350?cb=20220807151319"
     },
@@ -159,6 +163,7 @@
       "name": "Ghondor",
       "class": "Martial Artist",
       "hero": true,
+      "city" : true,
       "article_url": "https://xenoblade.fandom.com/wiki/Ghondor",
       "image_url": "https://static.wikia.nocookie.net/xenoblade/images/7/76/XC3_Ghondor_Portrait_Art.png/revision/latest/scale-to-width-down/350?cb=20220807151536"
     },
