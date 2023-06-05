@@ -92,6 +92,7 @@
       "hero": true,
       "kevesi" : true,
       "agnian" : true,
+      "nopon" : true,
       "article_url": "https://xenoblade.fandom.com/wiki/Riku_%26_Manana",
       "image_url": "https://static.wikia.nocookie.net/xenoblade/images/f/f0/XC3_Riku_and_Manana_Artwork.png/revision/latest/scale-to-width-down/350?cb=20220627181803"
     },
@@ -211,6 +212,7 @@
       "name": "Ino",
       "class": "Noponic Champion",
       "hero": true,
+      "nopon" : true,
       "dlc": true,
       "article_url": "https://xenoblade.fandom.com/wiki/Ino",
       "image_url": "https://static.wikia.nocookie.net/xenoblade/images/6/64/Ino_infobox_pic.png/revision/latest/scale-to-width-down/350?cb=20221014170957"
