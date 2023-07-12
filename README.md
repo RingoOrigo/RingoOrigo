@@ -11,8 +11,8 @@ Certain repositories have prefixes that can be used to determine what they are f
 1. `HMAD` - Repository for Honours Mobile App Development, my current high school course.
 
 ## Education
-Graduating high school in 2023. </br>
-Enrolled as a Computer Science major for class of 2027. 
+Graduated from Abington Heights High School (PA). 2023.</br>
+Current computer science student at Rensselear Polytechnic Institute. 2027.
 
 ## Contact
 * Twitter: [@RingoOrigo](https://twitter.com/RingoOrigo)
