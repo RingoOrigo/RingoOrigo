@@ -1,5 +1,7 @@
 ## Bio
-I am 18 and non-binary (they/them).</br>
+I am 19 and non-binary (they/them).</br>
+
+Currently attending Rensselaer Polytechnic Institute for computer science.</br>
 
 I take pretty pictures and program things that sometimes function :)
 
