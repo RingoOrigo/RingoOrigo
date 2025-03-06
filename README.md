@@ -1,5 +1,5 @@
 ## Bio
-20. They/Them.</br>
+20 years old. They/Them.</br>
 Photographer and programmer.</br>
 Currently attending Rensselaer Polytechnic Institute for computer science.</br></br>
 
